@@ -23,7 +23,7 @@ var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
 if(x=="1"){xxx="what-is-insurance.html"}
 if(x=="2"){xxx="what-makes-insurance-to-be-paradigm-for.html"}
-if(x=="3"){xxx="horse-trailer-insurance.html.html"}
+if(x=="3"){xxx="horse-trailer-insurance.html"}
 if(x=="4"){xxx="insurance-facts-you-may-not-know.html"}a_to_ve[i].href="https://www.catetlink.com/2019/06/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
